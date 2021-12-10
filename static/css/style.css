@@ -2,7 +2,11 @@
     box-sizing: border-box;
 }
 .main{
+<<<<<<< HEAD
     /* border: 2px solid white; */
+=======
+/*     border: 2px solid white; */
+>>>>>>> b7ea64e9ed1b5b3df4cab4d6712cb7d35b555ed8
     display: flex;
     flex-direction: column;
     align-items:center;
